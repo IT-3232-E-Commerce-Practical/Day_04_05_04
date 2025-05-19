@@ -40,11 +40,11 @@ This Spring Boot REST API manages student information. It perform CRUD operation
 - **Request Body Example:**
 ```json
 {
-  "regNo": "2020ICT01",
-  "name": "Bingu Sala",
-  "age": 24,
+  "regNo": "2020ICT107",
+  "name": "Tharndu Lakshimal",
+  "age": 25,
   "course": "ICT",
-  "gpa": 3.8
+  "gpa": 3.2
 }
 ```
 
